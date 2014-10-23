@@ -1,0 +1,9 @@
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.CompositingTool.resources
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\obj\Debug\CompositingTool.csproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
+c:\users\windows\documents\visual studio 2013\Projects\Test\Test\obj\Debug\CompositingTool.csprojResolveAssemblyReference.cache
